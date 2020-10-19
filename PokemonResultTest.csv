@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603124439288,108,HTTP Request,200,OK,Thread Group 1-1,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,108,0,75
+1603124439808,83,HTTP Request,200,OK,Thread Group 1-2,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,83,0,58
+1603124440308,86,HTTP Request,200,OK,Thread Group 1-3,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,86,0,61
+1603124440796,89,HTTP Request,200,OK,Thread Group 1-4,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,89,0,54
+1603124441294,99,HTTP Request,200,OK,Thread Group 1-5,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,99,0,59
+1603124441795,84,HTTP Request,200,OK,Thread Group 1-6,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,84,0,59
+1603124442296,91,HTTP Request,200,OK,Thread Group 1-7,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,91,0,51
+1603124442793,76,HTTP Request,200,OK,Thread Group 1-8,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,75,0,49
+1603124443294,86,HTTP Request,200,OK,Thread Group 1-9,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,85,0,62
+1603124443795,94,HTTP Request,200,OK,Thread Group 1-10,text,false,Missing property in path $['api/v2/pokemon'],2627,123,1,1,https://pokeapi.co/api/v2/pokemon/,94,0,46
