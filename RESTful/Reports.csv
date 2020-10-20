@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603208854541,58,Get_Users,200,OK,Thread Group 1-1,text,true,,2636,122,1,1,http://localhost:3000/api/users/,58,0,6
+1603208854600,52,Get_Tasks,200,OK,Thread Group 1-1,text,true,,3368,122,1,1,http://localhost:3000/api/tasks/,52,0,0
+1603208854653,52,Post_Users,200,OK,Thread Group 1-1,text,true,,374,291,1,1,http://localhost:3000/api/users/,52,0,0
+1603208854705,50,Post_Tasks,200,OK,Thread Group 1-1,text,true,,374,293,1,1,http://localhost:3000/api/tasks/,50,0,0
+1603208854755,2,Update_Users,404,Not Found,Thread Group 1-1,text,false,Character '.' on position 3 is not valid.,432,342,1,1,http://localhost:3000/api/users/,2,0,0
+1603208854758,2,Update_Tasks,500,Internal Server Error,Thread Group 1-1,text,false,"Value expected to match regexp 'Hey there  calling again', but it did not match: '[]'",339,312,1,1,http://localhost:3000/api/tasks/,2,0,0
+1603208854761,3,Delete_Users,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: localhost:3000 failed to respond,Thread Group 1-1,text,false,,2091,0,1,1,http://localhost:3000/api/users/,0,0,0
+1603208854765,5,Delete_Tasks,404,Not Found,Thread Group 1-1,text,false,,433,208,1,1,http://localhost:3000/api/tasks/,4,0,3
