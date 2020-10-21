@@ -1186,7 +1186,7 @@
           <hashTree/>
         </hashTree>
       </hashTree>
-      <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Load - jp@gc - Ultimate Thread Group" enabled="true">
+      <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Load - jp@gc - Ultimate Thread Group" enabled="false">
         <collectionProp name="ultimatethreadgroupdata">
           <collectionProp name="-1753855195">
             <stringProp name="1691">50</stringProp>
@@ -1432,7 +1432,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
+        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="false">
           <boolProp name="displayJMeterProperties">false</boolProp>
           <boolProp name="displayJMeterVariables">true</boolProp>
           <boolProp name="displaySystemProperties">false</boolProp>
@@ -1525,7 +1525,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
+        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="false">
           <boolProp name="displayJMeterProperties">false</boolProp>
           <boolProp name="displayJMeterVariables">true</boolProp>
           <boolProp name="displaySystemProperties">false</boolProp>
@@ -1595,25 +1595,25 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Stress - jp@gc - Ultimate Thread Group" enabled="false">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-1440116393">
-            <stringProp name="52469">500</stringProp>
+          <collectionProp name="-410429137">
+            <stringProp name="1691">50</stringProp>
             <stringProp name="0">0</stringProp>
-            <stringProp name="52469">500</stringProp>
-            <stringProp name="1603">25</stringProp>
-            <stringProp name="1691">50</stringProp>
+            <stringProp name="1629">30</stringProp>
+            <stringProp name="1722">60</stringProp>
+            <stringProp name="48625">100</stringProp>
           </collectionProp>
-          <collectionProp name="808376738">
-            <stringProp name="1507423">1000</stringProp>
-            <stringProp name="52536">525</stringProp>
-            <stringProp name="1507423">1000</stringProp>
-            <stringProp name="53430">600</stringProp>
-            <stringProp name="1691">50</stringProp>
+          <collectionProp name="-1068732934">
+            <stringProp name="49586">200</stringProp>
+            <stringProp name="1789">85</stringProp>
+            <stringProp name="48625">100</stringProp>
+            <stringProp name="1722">60</stringProp>
+            <stringProp name="49586">200</stringProp>
           </collectionProp>
-          <collectionProp name="-671353150">
-            <stringProp name="1512228">1500</stringProp>
-            <stringProp name="1538242">2125</stringProp>
-            <stringProp name="1512228">1500</stringProp>
-            <stringProp name="1603">25</stringProp>
+          <collectionProp name="2137069604">
+            <stringProp name="51508">400</stringProp>
+            <stringProp name="49715">245</stringProp>
+            <stringProp name="49586">200</stringProp>
+            <stringProp name="1567">10</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
@@ -2014,7 +2014,7 @@
           </hashTree>
         </hashTree>
       </hashTree>
-      <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Spike - jp@gc - Ultimate Thread Group" enabled="false">
+      <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="Spike - jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
           <collectionProp name="1220506886">
             <stringProp name="1507423">1000</stringProp>
